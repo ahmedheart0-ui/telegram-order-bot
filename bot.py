@@ -14,7 +14,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 # ========= إعدادات =========
 BOT_TOKEN = "8418046765:AAFYLds4Bu-1jJPY9BDRJ4fEdGiUORg9978"
 GROUP_ID = -1003686759425
-STAFF_IDS = {901390292, 7225092840}
+STAFF_IDS = {901390292, 7225092840,8303287008}
 
 EXCEL_FILE = "orders.xlsx"
 
@@ -289,3 +289,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
